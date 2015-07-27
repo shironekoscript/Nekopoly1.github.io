@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/nekopoly
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nekopoly1.github.io
+  * I am nekopoly (https://keybase.io/nekopoly) on keybase.
+  * I have a public key with fingerprint D6F0 AAF4 5FEF 3131 FAF7  D800 BEE5 A7F4 8984 EE20
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "d6f0aaf45fef3131faf7d800bee5a7f48984ee20",
+            "host": "keybase.io",
+            "key_id": "bee5a7f48984ee20",
+            "kid": "01011ebf2ac91ace1de1a9f1c15c9f38052dca5aa9b11bafd00657cb6dbd7eac91090a",
+            "uid": "2862c3ddd5ceb3eef95d0467e218b519",
+            "username": "nekopoly"
+        },
+        "service": {
+            "hostname": "nekopoly1.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1437976494,
+    "expire_in": 157680000,
+    "prev": "1f38e4fbd1026f3eaa9d04b8cdae30158ca7183584d4818aad0c9a10f4aa3ee6",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.20
+Comment: https://keybase.io/crypto
+
+yMIcAnicbZJbSFRBHMbXskLNEsMo8VIHssVMZvbc16ICSyUKK1PJSuacmbMe1vas
+u8dVEa1EUrArEVhWD0kYZQZSrOKLN9Iw3cIMfAhLIiwIlQhMSJpj9RI9DfOf7/vN
+fB8zGL3SFhmW5T7MZulHhsJG+rLLbcefDXVUM4qBqxhnNeMmy4ume1zE5/XpHpNx
+MljQAEIax2tEYyELNaSJWAJAIYRHosZJssQR4gBMGlNi+C0HxSjIT9J1g87opljH
+dPofvXv5AEAAIVE0B1JliFQCMYFI1qAKeVXWWAnwDqwiHiFZgVBBGgZA4EVVEbCC
+RWKZgAwQxZUv4xyS4FBZjDGvEoUlRJN5DDhBJA4oKTyULaGf+DzoDKFqD3EbXqO0
+iqlJY+g0oKvEqsBK8o8Cprt0s6Rc+R3L6zNMQzVKqaDENL1+pwUwq7yWo4IoxX9Y
+xYruwbRO6ggQn183PIwTUqVq6hYccqwoiwInc2kMqfTqPlKsWwpeFGjDAFj3kABF
+QtoD4TQFQ+AQNJbQMmgoRVIxIiyAvKQiEUosL3GYk6CEEAaqjCDQOIRoBwJjpSvz
+GIxTps9ELor06y4PMst9hKnp7z0ZbguLtK1etcL6ELbIiJi/38R4v2ZpZ8J0fcHg
+2AdGdkTYn5zPmXn67UHuGJtXcyfcdzd5+GfuaGF7v3k5UDF+zn4xfgAlHPw4G5oJ
+HVoXVdDxqQh0nHZW1i29c/eO7+4MHF1f+GLbJFGjk4KLsTfT9aA0+MgdG85f2vsy
+ztDjvthjZpszGtuH+vY/zM4b/Z7Z/TW4q9F+JerVTOxUaNOtTHu960bD2vtD+QkT
+GW52YV7s2ai/bkusC19MbV3YMZeyuWtr10LSCM5vSokfft5R1Ll9Ombq85vestrU
+A1uO/Xh8tn7uetMkbJ3vTGy4cGofqUm+3dJ2tSew597E7IbQQOvbE3HXmlv4uZy0
+2ubu+pbuqMy84C9vTy//
+=BxJt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nekopoly
+
+==================================================================
