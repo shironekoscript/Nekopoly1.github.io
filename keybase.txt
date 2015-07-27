@@ -7,6 +7,7 @@ I hereby claim:
   * I am an admin of https://nekopoly1.github.io
   * I am nekopoly (https://keybase.io/nekopoly) on keybase.
   * I have a public key with fingerprint D6F0 AAF4 5FEF 3131 FAF7  D800 BEE5 A7F4 8984 EE20
+  * real homepage is http://nekopoly.n-e.kr
 
 To do so, I am signing this object:
 
